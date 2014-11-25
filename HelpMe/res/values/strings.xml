@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelpMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_read_co__ordinates">ReadCo_Ordinates</string>
+    <string name="title_activity_map_location">MapLocation</string>
+    <string name="title_activity_locate_on_map">LocateOnMap</string>
+
+</resources>
